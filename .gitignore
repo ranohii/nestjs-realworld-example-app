@@ -22,4 +22,8 @@ src/config.ts
 coverage
 
 
+#docker
+docker/db/data/*
+
+
 dist/*
